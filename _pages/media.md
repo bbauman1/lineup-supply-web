@@ -25,7 +25,9 @@ A 1 time in-app purchase of $1.99 unlocks additional features such as:
 ### Assets
 
 [Click to download zip file](https://www.lineup.supply/assets/press.zip)
+
 ________
+
 <div class="downloadButtonsContainer">
     {% if site.playstore_link %}
         <a class="playStoreLink" href="{{site.playstore_link}}"><img class="playStore" src="assets/playstore.png"></a>
