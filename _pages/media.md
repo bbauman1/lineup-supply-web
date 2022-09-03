@@ -22,6 +22,16 @@ A 1 time in-app purchase of $1.99 unlocks additional features such as:
 - Music recommendations - LineupSupply will find similar artists to the ones found in your image
 - More customizations such as controlling the number of songs per artist, playlist description, and song sorting options.
 
+### Media
+
+#### Twitter
+
+- Twitter launch thread - [link](https://twitter.com/brettunhandled/status/1564268636948180993?s=20&t=B4tWfMDa0PIZjXivs0WTdQ)
+- Video demo creating 38 hour playlist of Lollapalooza lineup in less than a minute - [link](https://twitter.com/brettunhandled/status/1564268674034257920?s=20&t=B4tWfMDa0PIZjXivs0WTdQ)
+- Developer Advocate of RevenueCat - [link](https://twitter.com/drbarnard/status/1564396151234863107?s=20&t=B4tWfMDa0PIZjXivs0WTdQ)
+- TechCrunch Reporter - [link](https://twitter.com/ron_miller/status/1564582807820812292?s=20&t=B4tWfMDa0PIZjXivs0WTdQ)
+- People subscribing to Spotify so they can use LineupSupply - [link](https://twitter.com/brettunhandled/status/1564627288708513793?s=20&t=B4tWfMDa0PIZjXivs0WTdQ)
+
 ### Assets
 
 [Click to download zip file](https://www.lineup.supply/assets/press.zip)
