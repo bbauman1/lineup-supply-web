@@ -14,7 +14,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 ## Information Collection and Use
 
-When you authenticate LineupSupply with your Spotify credentials, I store an Spotify access token locally on your device keychain. I do not store your Spotify username or credentials anyhwere. Images you provide to create playlists never leave your device and are not stored.
+When you authenticate LineupSupply with your Spotify credentials, I store a Spotify access token locally on your device keychain. I do not store your Spotify username or password anywhere. Images you provide to create playlists never leave your device.
 
 Link to the privacy policy of third-party service providers used by the app
 
