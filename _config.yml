@@ -41,7 +41,7 @@ features                                  :
     
   - title                                 : Use Shazam on TikToks to make playlists
     description                           : Provide a video and LineupSupply will listen to the different songs in a video to make a playlist
-    fontawesome_icon_name                 : film
+    fontawesome_icon_name                 : video
 
   - title                                 : Create your own music festival lineup
     description                           : Use your top artists for the last 1, 6, or 12 months to make a music festival poster with a playlist
