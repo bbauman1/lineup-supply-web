@@ -13,7 +13,7 @@ presskit_download_link                    : #https://emilbaehr.com              
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Create playlists from your top artists, images, and videos
+app_description                           : Create playlists from your top artists, images, and videos. Make your own music festival lineup.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -41,11 +41,11 @@ features                                  :
     
   - title                                 : Use Shazam on TikToks to make playlists
     description                           : Provide a video and LineupSupply will listen to the different songs in a video to make a playlist
-    fontawesome_icon_name                 : camera-movie
+    fontawesome_icon_name                 : film
 
   - title                                 : Create your own music festival lineup
     description                           : Use your top artists for the last 1, 6, or 12 months to make a music festival poster with a playlist
-    fontawesome_icon_name                 : user-music
+    fontawesome_icon_name                 : image
 
   - title                                 : 
     description                           : 
@@ -87,7 +87,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#1DB954"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
