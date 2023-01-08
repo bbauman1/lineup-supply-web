@@ -13,7 +13,7 @@ presskit_download_link                    : #https://emilbaehr.com              
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : The best app for making playlists on Spotify and Apple Music. Create playlists from AI prompts, images, videos, and your most listened to music.
+app_description                           : The best app for making playlists on Spotify and Apple Music. Create playlists from AI prompts, images, videos, and your most-listened-to music.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Turn your thoughts into a playlist with AI
     description                           : Enter a prompt like "Early 2000's pop music" or "Playing board games on a rainy day" and AI will make the perfect mix
-    fontawesome_icon_name                 : sparkles
+    fontawesome_icon_name                 : magic
 
   - title                                 : Transform any music festival poster into a playlist
     description                           : PlaylistAI will take the artist names out of your image and turn them into a playlist
