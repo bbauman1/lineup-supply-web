@@ -13,7 +13,7 @@ presskit_download_link                    : #https://emilbaehr.com              
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Make a playlist for anything. Create playlists from your top artists, images, and videos. Make your own music festival lineup.
+app_description                           : The best app for making playlists on Spotify and Apple Music. Create playlists from AI prompts, images, videos, and your most listened to music.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
