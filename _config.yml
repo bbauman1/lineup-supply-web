@@ -37,13 +37,13 @@ features                                  :
 
   - title                                 : Turn your thoughts into a playlist with AI
     description                           : Enter a prompt like "Early 2000's pop music" or "Playing board games on a rainy day" and AI will make the perfect mix
-    fontawesome_icon_name                 : wand-magic-sparkles
+    fontawesome_icon_name                 : sparkles
 
   - title                                 : Transform any music festival poster into a playlist
     description                           : PlaylistAI will take the artist names out of your image and turn them into a playlist
     fontawesome_icon_name                 : camera
     
-  - title                                 : Use Shazam on TikToks to make playlists
+  - title                                 : ID the songs in TikToks and other videos
     description                           : Provide a video and PlaylistAI will make a playlist of the songs in the video
     fontawesome_icon_name                 : video
 
